@@ -4,8 +4,11 @@ A Simple Bash Script that upgrade and update all Debian/Ubuntu Systems that i us
 
 To use the script, simply run it on your Ubuntu machine using the following commands:
 
-```chmod +x update.sh``` 
+clone this repository with ```git clone ```
 
-and
+then you go with ``` cd fullupgrade ``` in the directory
 
-```sudo ./update.sh```
+
+then you give run permission with ```chmod +x update.sh``` 
+
+and execute this Script with ```sudo ./update.sh```
